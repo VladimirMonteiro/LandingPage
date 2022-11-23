@@ -16,7 +16,7 @@ header{
 }
 
 .center{
-    width: 80%;
+    width:1026px ;
     margin: 0 auto;
     
     height: 30px;
@@ -158,3 +158,45 @@ header{
     padding: 10px 0;
  }
 
+
+
+ .container-03{
+    width: 100%;
+    height: 500px;
+   
+    
+    
+ }
+ .container-03 .center{
+    background-color: #4683AB;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+
+ }
+
+ .img-01{
+    width: 60%;
+    height: 100%;
+    background-image: url('/images/mosaico1.jpg');
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+ }
+
+ .txt-01{
+    width: 30%;
+    margin-bottom: 100px;
+    display: inline-block;
+    
+    color: white;
+    font-weight: lighter;
+    
+   
+ }
+
+ 
+ 
