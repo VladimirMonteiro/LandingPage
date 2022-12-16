@@ -25,7 +25,7 @@ header{
 .logo-01{
     width: 160px;
     height:80px;
-    background-image: url('/images/logo1.png');
+    background-image: url('./images/logo1.png');
     background-size: 100% auto;
     background-repeat: no-repeat;
     display: inline-block;
@@ -36,7 +36,7 @@ header{
 .logo-02{
     width: 160px;
     height: 60px;
-    background-image: url('/images/logo2.png');
+    background-image: url('./images/logo2.png');
     background-repeat: no-repeat;
     background-size: 100% auto;
     float: right;
@@ -76,7 +76,7 @@ header{
  .container-01 >.center{
     width: 1026px;
     height: 560px;
-    background-image: url('/images/bg-form.jpg');
+    background-image: url('./images/bg-form.jpg');
     background-repeat: no-repeat;
    
     background-position:  center ;
@@ -137,7 +137,7 @@ header{
 .arrow{
     width: 65px;
     height: 65px;
-    background-image: url('/images/arrow.png');
+    background-image: url('./images/arrow.png');
     background-size: 100% auto;
     margin: 0 auto;
     position: relative;
@@ -187,7 +187,7 @@ header{
  .img-01{
     width: 60%;
     height: 100%;
-    background-image: url('/images/mosaico1.jpg');
+    background-image: url('./images/mosaico1.jpg');
     background-size: cover;
     background-position: center;
     display: inline-block;
